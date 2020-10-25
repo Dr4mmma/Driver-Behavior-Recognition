@@ -127,6 +127,9 @@ This project will be ran on Jetson nano/xavier, as it is a mini computer that wa
 
 ###### Picture belongs to: [elinux](https://elinux.org/Jetson_Xavier_NX)
 
+# Video
+Video is coming soon!!!!
+
 # Final thoughts
 I would consider this project finished, but there will be minor modifications to data gathered in order to assure high accuracy.
 The final product will be available soon, and hopefully I can get a commercial product available at very cheap price.
