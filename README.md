@@ -68,4 +68,9 @@ By merging the following modules:
   * [head-pose-estimation](https://github.com/yinguobing/head-pose-estimation)
   * [face-alignment](https://github.com/1adrianb/face-alignment)
   * [GazeTracking](https://github.com/antoinelame/GazeTracking)
+  
 Which was already done in the following project: [VTuber_Unity](https://github.com/kwea123/VTuber_Unity), you will recognize the following appearing on your screen:
+
+![picture alt](https://github.com/kwea123/VTuber_Unity/blob/master/images/debug_cpu.gif)
+![picture alt](https://github.com/kwea123/VTuber_Unity/blob/master/images/debug_gpu.gif)
+
