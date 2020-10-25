@@ -9,4 +9,6 @@ Using Python Deep Learning algorithms in order to monitor drivers while on the r
 
 | Project | License  | 
 | :---:   | :-: | 
-| Seconds | 301 |
+| VTuber_Unity | License |
+| :---:   | :-: | 
+| DBSE-monitor | License |
