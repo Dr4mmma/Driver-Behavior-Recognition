@@ -50,6 +50,7 @@ Using Python Deep Learning algorithms in order to monitor drivers while on the r
      `import dlib`
      
      `dlib.__version__`
+* Other packages may be needed to get installed, but you're almost there!
 
 # How to use it:
 
