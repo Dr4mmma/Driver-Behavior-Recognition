@@ -96,5 +96,6 @@ This module was merged with the main project to understand driver's state (distr
 <p align="center">
   <img src="https://im3.ezgif.com/tmp/ezgif-3-61afd389c24d.gif">
 </p>
+
 ###### Gifs are taken by: [DBSE-Monitor](https://github.com/altaga/DBSE-monitor/tree/master/Drowsiness)
 
