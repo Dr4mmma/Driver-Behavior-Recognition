@@ -78,4 +78,5 @@ Which was already done in the following project: [VTuber_Unity](https://github.c
 
 ## 3. Determining where the driver's is looking (Right mirror, left mirror, Front mirror (road), Rear mirror, Dashboard, Center Console):
 This was done by saving data of driver's head and gaze direction in order to use a classifier (KNN Classifier) to determine where the driver is looking.
+
 ![picture alt](https://im3.ezgif.com/tmp/ezgif-3-f32045e0fd6b.gif)
