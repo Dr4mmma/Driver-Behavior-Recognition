@@ -90,4 +90,11 @@ This was done by saving data of the previous method in order to use a classifier
   <img src="https://im3.ezgif.com/tmp/ezgif-3-92d4b0b07992.gif">
 </p>
 
-## 5. 
+## 5. Running drowsiness and distraction detector module:
+This module was merged with the main project to understand driver's state (distracted, sleepy or normal), this module is already implemented as [DBSE-Monitor](https://github.com/altaga/DBSE-monitor/tree/master/Drowsiness)
+
+<p align="center">
+  <img src="https://im3.ezgif.com/tmp/ezgif-3-61afd389c24d.gif">
+</p>
+###### Gifs are taken by: [DBSE-Monitor](https://github.com/altaga/DBSE-monitor/tree/master/Drowsiness)
+
