@@ -105,3 +105,6 @@ This was done by an if statement:
 * Driver is not looking at the mirrors probably or sleepy or distracted, then the driver is apnormal.
 Then if the driver is not normal for over 52 frames, an alarm goes out for 8 seconds to warn the driver to focus on the road.
 
+## 7. Implementation:
+This project will be ran on Jetson nano/xavier, as it is a mini computer that was made for AI projects.
+
