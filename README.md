@@ -82,3 +82,12 @@ This was done by saving data of driver's head and gaze direction in order to use
 <p align="center">
   <img src="https://im3.ezgif.com/tmp/ezgif-3-f32045e0fd6b.gif">
 </p>
+
+## 4. Using sequence classification methods in order to determine drivers mode just by looking at the mirrors (using mirrors in a normal way):
+This was done by saving data of the previous method in order to use a classifier (KNN Classifier (sequence classification)) to determine whether the driver is driving normally or not.
+
+<p align="center">
+  <img src="https://im3.ezgif.com/tmp/ezgif-3-92d4b0b07992.gif">
+</p>
+
+## 5. 
