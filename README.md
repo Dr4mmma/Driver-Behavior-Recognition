@@ -118,4 +118,4 @@ The final product will be available soon, and hopefully I can get a commercial p
 I would love the opportunity to have a talk with a production company that can help me to get to a commercial product.
 
 Thank you for your time, this code is available for any developer that wants to go further with this project.
-Contact me for any further details at: ***mohammad.tayseer.comn@gmail.com
+Contact me for any further details at: mohammad.tayseer.comn@gmail.com
