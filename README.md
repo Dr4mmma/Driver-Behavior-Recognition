@@ -53,11 +53,11 @@ Using Python Deep Learning algorithms in order to monitor drivers while on the r
 
 # How to use it:
 
-## Running the project:
+## 1. Running the project:
 * Execute the following command to run the project:
 
-  'python DBR.py --debug --cpu'
+  `python DBR.py --debug --cpu`
   
   or (if running on GPU):
   
-  'python DBR.py --debug'
+  `python DBR.py --debug`
