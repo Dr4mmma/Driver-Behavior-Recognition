@@ -99,3 +99,9 @@ This module was merged with the main project to understand driver's state (distr
 
 ###### Gifs are taken by: [DBSE-Monitor](https://github.com/altaga/DBSE-monitor/tree/master/Drowsiness)
 
+## 6. Defining if the driver is in a normal driving mode or not:
+This was done by an if statement:
+* Driver is looking at the mirrors probably, not sleepy and not distracted, then the driver is normal.
+* Driver is not looking at the mirrors probably or sleepy or distracted, then the driver is apnormal.
+Then if the driver is not normal for over 52 frames, an alarm goes out for 8 seconds to warn the driver to focus on the road.
+
