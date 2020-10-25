@@ -5,7 +5,7 @@ Using Python Deep Learning algorithms in order to monitor drivers while on the r
 
 
 
-<p align="center" style="margin-top=30px">
+<p align="center" style="margin-top=100px">
   <img src="https://i.ibb.co/tsXX68r/64391-Converted.png">
 </p>
 
