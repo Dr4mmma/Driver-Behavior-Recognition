@@ -40,7 +40,7 @@ Based on Image Recognition.
 * Create Virtual Environment
   * Open the command prompt and execute the following command:
   
-  `conda create --name opencv-env python=3.6`
+    `conda create --name opencv-env python=3.6`
 * Activate the environment and installing packages
   * Activate virtual environment (See how the (opencv-env) appears before the prompt after this command): 
   
