@@ -52,7 +52,7 @@ Using Python Deep Learning algorithms in order to monitor drivers while on the r
      `dlib.__version__`
 * Other packages may be needed to get installed, but you're almost there!
 
-# How to use it:
+# How to use it (inluding brief summary of what you see):
 
 ## 1. Running the project:
 * Execute the following command to run the project:
@@ -62,3 +62,10 @@ Using Python Deep Learning algorithms in order to monitor drivers while on the r
   or (if running on GPU):
   
   `python DBR.py --debug`
+  
+## 2. Face detection test:
+By merging the following modules:
+  * [head-pose-estimation](https://github.com/yinguobing/head-pose-estimation)
+  * [face-alignment](https://github.com/1adrianb/face-alignment)
+  * [GazeTracking](https://github.com/antoinelame/GazeTracking)
+Which was already done in the following project: [VTuber_Unity](https://github.com/kwea123/VTuber_Unity), you will recognize the following appearing on your screen:
