@@ -111,3 +111,11 @@ This project will be ran on Jetson nano/xavier, as it is a mini computer that wa
 <p align="center">
   <img src="https://elinux.org/images/9/93/Jetson-Xavier-NX-DevKit-Module.jpg">
 </p>
+
+# Final thoughts
+I would consider this project finished, but there will be minor modifications to data gathered in order to assure high accuracy.
+The final product will be available soon, and hopefully I can get a commercial product available at very cheap price.
+I would love the opportunity to have a talk with a production company that can help me to get to a commercial product.
+
+Thank you for your time, this code is available for any developer that wants to go further with this project.
+Contact me for any further details at: ***mohammad.tayseer.comn@gmail.com
