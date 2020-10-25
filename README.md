@@ -26,18 +26,28 @@ Using Python Deep Learning algorithms in order to monitor drivers while on the r
     Add Anaconda to System PATH and make it default Python
 * Create Virtual Environment
   * Open the command prompt and execute the following command:
+  
   `conda create --name opencv-env python=3.6`
 * Activate the environment and installing packages
   * Activate virtual environment (See how the (opencv-env) appears before the prompt after this command): 
+  
     `activate opencv-env`
   * Install OpenCV and other important packages continuing from the above prompt, execute the following commands:
+  
     `pip install numpy scipy matplotlib scikit-learn jupyter`
+    
     `pip install opencv-contrib-python`
+    
     `python -m pip install https://files.pythonhosted.org/packages/0e/ce/f8a3cff33ac03a8219768f0694c5d703c8e037e6aba2e865f9bae22ed63c/dlib-19.8.1-cp36-cp36m win_amd64.whl#sha256=794994fa2c54e7776659fddb148363a5556468a6d5d46be8dad311722d54bfcf`
+    
 * Test your installation
   * Open the python prompt on the command line by typing python on the command prompt and then execute the following:
+  
     `import cv2`
-     `cv2.__version__`
+    
+    `cv2.__version__`
+    
      `import dlib`
+     
      `dlib.__version__`
 
