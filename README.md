@@ -125,7 +125,7 @@ This project will be ran on Jetson nano/xavier, as it is a mini computer that wa
   <img src="https://elinux.org/images/9/93/Jetson-Xavier-NX-DevKit-Module.jpg">
 </p>
 
-###### Gifs are taken by: [elinux](https://elinux.org/Jetson_Xavier_NX)
+###### Picture belongs to: [elinux](https://elinux.org/Jetson_Xavier_NX)
 
 # Final thoughts
 I would consider this project finished, but there will be minor modifications to data gathered in order to assure high accuracy.
