@@ -119,3 +119,10 @@ I would love the opportunity to have a talk with a production company that can h
 
 Thank you for your time, this code is available for any developer that wants to go further with this project.
 Contact me for any further details at: mohammad.tayseer.comn@gmail.com
+
+# Licenses
+  * [head-pose-estimation](https://github.com/yinguobing/head-pose-estimation)
+  * [face-alignment](https://github.com/1adrianb/face-alignment)
+  * [GazeTracking](https://github.com/antoinelame/GazeTracking)
+  * [DBSE-Monitor](https://github.com/altaga/DBSE-monitor/tree/master/Drowsiness)
+  * [VTuber_Unity](https://github.com/kwea123/VTuber_Unity)
