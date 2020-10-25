@@ -1,5 +1,4 @@
 # Driver-Behavior-Recognition
-- - - -
 
 Using Python Deep Learning algorithms in order to monitor drivers while on the road.
 
@@ -7,7 +6,6 @@ Using Python Deep Learning algorithms in order to monitor drivers while on the r
 
 
 # Credits 
-- - - -
 
 | Project | License  | 
 | :---:   | :-: | 
@@ -15,6 +13,8 @@ Using Python Deep Learning algorithms in order to monitor drivers while on the r
 | [DBSE-monitor](https://github.com/altaga/DBSE-monitor) | [License](https://github.com/altaga/DBSE-monitor/blob/master/LICENSE) |
 
 # Installation
-- - - -
 
+## Hardware
+* OS: Ubuntu 16.04 (at least) or Windows 10 (Maybe MacOS as well).
+* Runs on both CPU and GPU (at least CUDA 9.0)
 
