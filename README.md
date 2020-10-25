@@ -71,8 +71,7 @@ By merging the following modules:
   
 Which was already done in the following project: [VTuber_Unity](https://github.com/kwea123/VTuber_Unity), you will recognize the following appearing on your screen:
 
-![picture alt](https://github.com/kwea123/VTuber_Unity/blob/master/images/debug_cpu.gif "hi")
-![picture alt](https://github.com/kwea123/VTuber_Unity/blob/master/images/debug_gpu.gif)
+![picture alt](https://github.com/kwea123/VTuber_Unity/blob/master/images/debug_cpu.gif "CPU Model")
+![picture alt](https://github.com/kwea123/VTuber_Unity/blob/master/images/debug_gpu.gif "GPU Model")
 
-
-
+###### Gifs are taken by: [VTuber_Unity](https://github.com/kwea123/VTuber_Unity)
