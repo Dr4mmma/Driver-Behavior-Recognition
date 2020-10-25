@@ -100,14 +100,14 @@ This was done by saving data of driver's head and gaze direction in order to use
 This was done by saving data of the previous method in order to use a classifier (KNN Classifier (sequence classification)) to determine whether the driver is driving normally or not.
 
 <p align="center">
-  <img src="https://im3.ezgif.com/tmp/ezgif-3-92d4b0b07992.gif">
+  <img src="https://i.ibb.co/4Mdng2B/2.gif">
 </p>
 
 ## 5. Running drowsiness and distraction detector module:
 This module was merged with the main project to understand driver's state (distracted, sleepy or normal), this module is already implemented as [DBSE-Monitor](https://github.com/altaga/DBSE-monitor/tree/master/Drowsiness)
 
 <p align="center">
-  <img src="https://im3.ezgif.com/tmp/ezgif-3-61afd389c24d.gif">
+  <img src="https://i.ibb.co/2k2kCh3/3.gif">
 </p>
 
 ###### Gifs are taken by: [DBSE-Monitor](https://github.com/altaga/DBSE-monitor/tree/master/Drowsiness)
