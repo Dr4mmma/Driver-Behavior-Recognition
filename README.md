@@ -108,3 +108,6 @@ Then if the driver is not normal for over 52 frames, an alarm goes out for 8 sec
 ## 7. Implementation:
 This project will be ran on Jetson nano/xavier, as it is a mini computer that was made for AI projects.
 
+<p align="center">
+  <img src="https://elinux.org/images/9/93/Jetson-Xavier-NX-DevKit-Module.jpg">
+</p>
